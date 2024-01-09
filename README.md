@@ -1,4 +1,4 @@
-# Hi there I am Bibina Ghale 👋 #
+# Hi there I am Bibina Ghale 👋 👩🏾‍💻 #
 ![](https://komarev.com/ghpvc/?username=BibinG)
 
 ## ✨An enthusiastic Android Developer with a passion for crafting robust and user-friendly mobile applications✨ ##
