@@ -29,9 +29,9 @@ data-target="animated-image.originalImage" width="300">
 [Bibina's GitHub stats](https://github-readme-stats.vercel.app/api?username=BibinaG&theme=dark&show_icons=true)
 <!--[Bibina's GitHub stats](https://github-readme-stats.vercel.app/api?username=BibinaG&show_icons=true&theme=merko)
 -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=BibinaG&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=BibinaG&theme=highcontrast)](https://git.io/streak-stats,)
 
-![Bibina's GitHub stats](https://github-readme-stats.vercel.app/api?username=BibinaG&show_icons=true&theme=radical)
+<!--![Bibina's GitHub stats](https://github-readme-stats.vercel.app/api?username=BibinaG&show_icons=true&theme=radical)
 
 
 
